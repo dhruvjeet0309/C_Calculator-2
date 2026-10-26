@@ -10,6 +10,7 @@ void division(int x,int y);
 void modulus(int x,int y);
 void square(int x);
 void exit(int x);
+void restart(int x);
 
 int main()
 {
